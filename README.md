@@ -1,4 +1,38 @@
-### Hi there 👋
+<a href="#">
+  <img align="right" src="./developer-HugManh.jpg" alt="HugManh" width="200" />
+</a>
+
+<h3>
+  <samp>
+    > 👋 Hey!, I am
+    <b><a target="_blank" href="#">HugManh</a></b>
+  </samp>
+</h3>
+
+---
+
+<div align="middle">
+  <table border-width="0">
+    <tbody>
+      <tr>
+        <td align="center"> 
+          <h6>Websites/PWAs</h6>
+          <a href="#"><img src="https://skillicons.dev/icons?i=vercel,nodejs,ts,js,golang"/></a>
+        </td>
+        <td align="center">   
+          <h6>Cloud Services</h6>
+          <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb"/></a>
+        </td>
+        <td align="center">
+          <h6>Others</h6>
+          <a href="#"><img src="https://skillicons.dev/icons?i=py,cpp,java,lua,bash"/></a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
 
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -7,20 +41,3 @@
   height="300"
 />
 </a>
-  
-  
-
-<!--
-**HugManh/HugManh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
