@@ -1,18 +1,27 @@
 <a href="#">
+</a>
+
+<a align="right" href="https://github.com/HugManh/HugManh">
   <img align="right" src="./developer-HugManh.jpg" alt="HugManh" width="200" />
+  <img
+    align="right"
+    src="https://render.gitanimals.org/farms/HugManh"
+    width="200"
+    height="100"
+    alt="GitAnimals Farm"
+  />
 </a>
 
 <h3>
-  <samp>
-    > 👋 Hey!, I am
-    <b><a target="_blank" href="#">HugManh</a></b>
-  </samp>
+  > 👋 Hey!, I am <b><a target="_blank" href="#">HugManh</a></b>
 </h3>
 
----
+<p>
+  I’m a curious soul who loves exploring new ideas, traveling to hidden places, and sipping on refreshing herbal tea while daydreaming about the universe.
+</p>
 
 <div align="middle">
-  <table border-width="0">
+  <table>
     <tbody>
       <tr>
         <td align="center"> 
@@ -32,16 +41,5 @@
   </table>
 </div>
 
----
-
 ![Metrics](./github-metrics.svg)
 
----
-
-<a href="https://github.com/HugManh/HugManh">
-<img
-  src="https://render.gitanimals.org/farms/HugManh"
-  width="600"
-  height="300"
-/>
-</a>
