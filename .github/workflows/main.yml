@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          config_timezone: Asia/Shanghai
+          config_timezone: Asia/Ho_Chi_Minh
           token: ${{ secrets.PERSONAL_PROFILE }}
           # languages
           plugin_languages: yes
