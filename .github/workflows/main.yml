@@ -16,10 +16,19 @@ jobs:
         with:
           config_timezone: Asia/Shanghai
           token: ${{ secrets.PERSONAL_PROFILE }}
+          # languages
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          # isocalendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          # achievements
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
           config_display: large
           config_order: isocalendar, languages
   actions-timeline:
