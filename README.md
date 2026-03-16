@@ -43,4 +43,4 @@
 
 ![Metrics](./github-metrics.svg)
 
-# ![Repos I created](https://github-contrib-stats.vercel.app/HugManh/created.svg)
+<!-- ![Repos I created](https://github-contrib-stats.vercel.app/HugManh/created.svg) -->
