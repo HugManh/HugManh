@@ -13,7 +13,7 @@
 </a>
 
 <h3>
-  > 👋 Hey!, I am <b><a target="_blank" href="#">HugManh</a></b>
+  > 👋 Hey!, I am <b><a target="_blank" href="https://github.com/HugManh">HugManh</a></b>
 </h3>
 
 <p>
@@ -43,3 +43,4 @@
 
 ![Metrics](./github-metrics.svg)
 
+![Repos I created](https://github-contrib-stats.vercel.app/HugManh/created.svg)
