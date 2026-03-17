@@ -41,9 +41,9 @@ I’m a curious soul who loves exploring new ideas, traveling to hidden places, 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=docker,git,linux,vscode) -->
 
-![Metrics](./github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/HugManh/HugManh/output/github-metrics.svg)
 
-![snake gif](./github-contribution-grid-snake.svg)
+![snake gif]([.](https://raw.githubusercontent.com/HugManh/HugManh/output/github-contribution-grid-snake.svg)
 
 <!-- # 💬 Dev Quote
 
