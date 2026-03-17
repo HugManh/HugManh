@@ -1,46 +1,52 @@
-<a href="#">
-</a>
+<div align="center">
 
-<a align="right" href="https://github.com/HugManh/HugManh">
-  <img align="right" src="./developer-HugManh.jpg" alt="HugManh" width="200" />
-  <img
-    align="right"
-    src="https://render.gitanimals.org/farms/HugManh"
-    width="200"
-    height="100"
-    alt="GitAnimals Farm"
-  />
-</a>
+<img src="./developer-HugManh.jpg" width="180" alt="HugManh"/>
 
-<h3>
-  > 👋 Hey!, I am <b><a target="_blank" href="https://github.com/HugManh">HugManh</a></b>
-</h3>
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Golang+Engineer;Always+Learning+New+Things&center=true&width=500&height=45">
 
-<p>
-  I’m a curious soul who loves exploring new ideas, traveling to hidden places, and sipping on refreshing herbal tea while daydreaming about the universe.
+![](https://komarev.com/ghpvc/?username=HugManh&color=blue)
+
+</div>
+
+👋 Hey!, I'm <b><a target="_blank" href="https://github.com/HugManh">HugManh</a></b>.
+I’m a curious soul who loves exploring new ideas, traveling to hidden places, and sipping on refreshing herbal tea while daydreaming about the universe.
+
+**Touch me at:**
+
+- [🍱 GitHub](https://github.com/HugManh)
+
+🐾🐾🐾
+
+<p align="center">
+
+<img src="https://render.gitanimals.org/farms/HugManh" width="500"/>
+
 </p>
 
-<div align="middle">
-  <table>
-    <tbody>
-      <tr>
-        <td align="center"> 
-          <h6>Websites/PWAs</h6>
-          <a href="#"><img src="https://skillicons.dev/icons?i=vercel,nodejs,ts,js,golang"/></a>
-        </td>
-        <td align="center">   
-          <h6>Cloud Services</h6>
-          <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb"/></a>
-        </td>
-        <td align="center">
-          <h6>Others</h6>
-          <a href="#"><img src="https://skillicons.dev/icons?i=py,cpp,java,lua,bash"/></a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<!-- # 🧰 Tech Stack
+
+### Backend
+![Backend](https://skillicons.dev/icons?i=golang,nodejs,js)
+
+### Databases
+![Database](https://skillicons.dev/icons?i=postgres,mongodb)
+
+### Other Languages
+![Languages](https://skillicons.dev/icons?i=python,cpp,java,lua,bash)
+
+### Tools
+![Tools](https://skillicons.dev/icons?i=docker,git,linux,vscode) -->
 
 ![Metrics](./github-metrics.svg)
 
-![Repos I created](https://github-contrib-stats.vercel.app/HugManh/created.svg)
+![snake gif](https://github.com/HugManh/HugManh/blob/output/github-contribution-grid-snake.svg)
+
+<!-- # 💬 Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p> -->
+
+⭐ From [HugManh](https://github.com/HugManh)

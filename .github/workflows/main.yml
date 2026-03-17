@@ -31,6 +31,8 @@ jobs:
           plugin_achievements_threshold: X
           config_display: large
           config_order: isocalendar, languages
+          outputs: |
+            dist/github-metrics.svg
   actions-timeline:
     needs: [github-metrics]
     runs-on: ubuntu-latest
