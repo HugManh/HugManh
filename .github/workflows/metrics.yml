@@ -1,18 +1,25 @@
 name: Metrics
+
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
+
   # (optional) Run workflow manually
   workflow_dispatch:
+
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: generate metrics graph
+        uses: lowlighter/metrics@latest
         with:
           config_timezone: Asia/Ho_Chi_Minh
           token: ${{ secrets.PERSONAL_PROFILE }}
@@ -31,9 +38,23 @@ jobs:
           plugin_achievements_threshold: X
           config_display: large
           config_order: isocalendar, languages
+          outputs: |
+            dist/metrics/github-metrics.svg
+      
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist/metrics
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_PROFILE }}
+
   actions-timeline:
     needs: [github-metrics]
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
       - uses: Kesin11/actions-timeline@v2
