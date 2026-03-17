@@ -43,7 +43,7 @@ I’m a curious soul who loves exploring new ideas, traveling to hidden places, 
 
 ![Metrics](https://raw.githubusercontent.com/HugManh/HugManh/output/github-metrics.svg)
 
-![snake gif]([.](https://raw.githubusercontent.com/HugManh/HugManh/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/HugManh/HugManh/output/github-contribution-grid-snake.svg)
 
 <!-- # 💬 Dev Quote
 
