@@ -30,7 +30,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           # achievements
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_only: >-
             polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
             scripter, packager, explorer, infographile, manager
@@ -38,13 +38,15 @@ jobs:
           plugin_achievements_threshold: X
           config_display: large
           config_order: isocalendar, languages
+          # using prebuilt docker image
+          use_prebuilt_image: yes
           # commit timeline
-          # output_action: commit
-          # committer_branch: output
-          # committer_message: "chore: update metrics"
+          output_action: commit
+          committer_branch: output
+          committer_message: "chore: update metrics"
           # push gist
-          output_action: gist
-          committer_gist: bf0200489e03c11f9c8b68fc78ec1ba3
+          # output_action: gist
+          # committer_gist: bf0200489e03c11f9c8b68fc78ec1ba3
 
   actions-timeline:
     needs: [github-metrics]
